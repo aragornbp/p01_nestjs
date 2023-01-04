@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. Api usando typeorm para criação de usuário, com geração de token e proteção de rotas com decorator Guards. 
 
 ## Installation
 
